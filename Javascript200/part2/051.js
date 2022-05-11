@@ -19,3 +19,5 @@ console.log(cart1.store);
 
 const p = cart1.getProuduct(1);
 console.log(p);
+
+// ES6부터 class 키워드를 통해 클래스를 정의.
