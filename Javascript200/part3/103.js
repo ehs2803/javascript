@@ -7,3 +7,4 @@ const obj = {
 
 const modifiedObj = Object.entries(obj);
 console.log(modifiedObj);
+// 객체를 배열로 변환하기

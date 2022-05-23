@@ -21,3 +21,4 @@ const changeUntilNum = (obj, num) => {
 
 let profile = { name: '지연', age: 25 };
 changeUntilNum(profile, 30);
+// 객체 변경되지 않도록 하기

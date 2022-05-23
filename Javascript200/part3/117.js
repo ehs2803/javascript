@@ -14,3 +14,6 @@ console.log(typeof JSON.parse('false'));
 
 console.log(JSON.parse('Kiss Carnival'));
 console.log(JSON.parse('[2003, 2017]'));
+
+// json 문자열을 json으로 변환하는 방법은 JSON객체의 parse메소드를 사용한다.
+// JSON.parse(값, 리플레이서)

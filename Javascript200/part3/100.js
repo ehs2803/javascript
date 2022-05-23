@@ -5,3 +5,5 @@ const result = arr.reduce((acc, el) => {
 }, []);
 
 console.log(result);
+
+// 중첩된 배열을 단일하게 만들기

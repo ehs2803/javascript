@@ -21,3 +21,4 @@ var to = new Date(from.getFullYear() + 1, from.getMonth() + 3,
 console.log(`From   > ${from}`)
 console.log(`To     > ${to}`)
 console.log(Date.daysDiff(from, to));
+// 두 개의 날짜 사이의 경과 시간 계산하기

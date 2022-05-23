@@ -9,3 +9,5 @@ Date.prototype.yyyymmdd = function() {
 
 const date = new Date();
 console.log(date.yyyymmdd());
+
+// Date객체 prototype으로 yyyymmdd 이름의 메소드를 정의
